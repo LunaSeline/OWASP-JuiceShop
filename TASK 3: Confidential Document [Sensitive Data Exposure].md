@@ -79,8 +79,7 @@ This section demonstrates how to exploit improper access controls and directory 
 > ```
 >
 >![image](https://github.com/user-attachments/assets/4617e8c4-940b-4e4e-af78-43c3af253b41)
->
-> Click Send to resend the request.
+> *Click Send to resend the request.
 
 
 **Step 9: Review the Response**
