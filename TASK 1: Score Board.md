@@ -1,3 +1,5 @@
+# TASK 1: Score Board:
+
 ## Introduction
 This section demonstrates how to locate the scoreboard functionality in a web application by analyzing its source code. Understanding how to access hidden or poorly secured features can help identify potential vulnerabilities in the application.
 
