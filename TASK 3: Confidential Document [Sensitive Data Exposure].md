@@ -48,21 +48,19 @@ This section demonstrates how to exploit improper access controls and directory 
 > ```
 >
 >![image](https://github.com/user-attachments/assets/75598300-ee4c-4abd-8ac0-e0b237de87df)
->
 > * Click Send to resend the request.
 >
 >![image](https://github.com/user-attachments/assets/ee5642da-76fe-4a29-bba8-883b302ed946)
 
 
 **Step 6: Inspect the Directory Listing**
-> In the Response tab, you will see a directory listing of all files in the _ftp_ directory.
-> 
->![image](https://github.com/user-attachments/assets/ee5642da-76fe-4a29-bba8-883b302ed946)
-> 
->Search for _legal.md_ to confirm the directory contents.
+> * In the Response tab, you will see a directory listing of all files in the _ftp_ directory.
 >
->![image](https://github.com/user-attachments/assets/ed0f375b-6d8a-4e49-b34b-43d5b2f6f89d)
-> Notice that all files have a .md extension.
+> ![image](https://github.com/user-attachments/assets/ee5642da-76fe-4a29-bba8-883b302ed946)
+> * Search for _legal.md_ to confirm the directory contents.
+>
+> ![image](https://github.com/user-attachments/assets/ed0f375b-6d8a-4e49-b34b-43d5b2f6f89d)
+> * Notice that all files have a .md extension.
 
 
 **Step 7: Identify a Confidential File**
